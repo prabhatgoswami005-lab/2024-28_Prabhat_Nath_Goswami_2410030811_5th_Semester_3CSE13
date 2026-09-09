@@ -119,7 +119,7 @@ The proposed platform focuses on a mobile-first shopping experience with product
 
 ## 🙏 Acknowledgement
 
-Thanks to **YuvaIntern** for providing the internship opportunity and to **IILM University, Greater Noida** and the School of Computer Science and Engineering for their academic support.
+Thanks to **YuvaIntern** for providing the internship opportunity and to **IILM University, Greater Noida** for continuous support throughout the programme.
 
 ---
 
